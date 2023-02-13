@@ -37,11 +37,11 @@ And finally, everything is ready!
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/JhMZbQXD/Capture-d-cran-2023-02-13-132124.png)
+![App Screenshot](https://raw.githubusercontent.com/mmoreaudev/Toreya/main/screenshots/1.png)
 
-![App Screenshot](https://i.postimg.cc/nhYQcQWH/Capture-d-cran-2023-02-13-132215.png)
+![App Screenshot](https://raw.githubusercontent.com/mmoreaudev/Toreya/main/screenshots/2.png)
 
-![App Screenshot](https://i.postimg.cc/TP0mQWjk/Capture-d-cran-2023-02-13-132245.png)
+![App Screenshot](https://raw.githubusercontent.com/mmoreaudev/Toreya/main/screenshots/3.png)
 
 
 ## Authors
