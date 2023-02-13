@@ -1,0 +1,1 @@
+<?php header('location:https://toreya.pleven-dev.fr'); ?>

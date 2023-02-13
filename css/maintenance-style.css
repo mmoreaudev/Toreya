@@ -1,0 +1,69 @@
+body {
+    text-align: center;
+    padding: 100px;
+    padding: 100px 5vw;
+    font: 20px Helvetica, sans-serif;
+    color: #333;
+    background: #eeeeee;
+}
+h1 {
+    font-size: 48px;
+}
+article {
+    display: block;
+    text-align: left;
+    max-width: 740px;
+    margin: 0 auto;
+}
+a {
+    color: #dc8100;
+    text-decoration: none;
+}
+a:hover {
+    color: #333;
+    text-decoration: none;
+}
+.svg-icon {
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+.svg-icon-large {
+    width: 6em;
+    height: 6em;
+    animation-duration: 6000ms;
+    animation-name: spinLeft;
+}
+.svg-icon-small {
+    width: 4em;
+    height: 4em;
+    position: absolute;
+    margin-left: -15px;
+    margin-top: -25px;
+    animation-duration: 4000ms;
+    animation-name: spinRight;
+}
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+    fill: #cccccc;
+}
+.svg-icon-small path {
+    stroke: #cccccc;
+    stroke-width: 0.3;
+}
+@keyframes spinLeft {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+@keyframes spinRight {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(-360deg);
+    }
+}
