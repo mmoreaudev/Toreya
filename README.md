@@ -37,7 +37,7 @@ And finally, everything is ready!
 
 ## Screenshots
 
-<img src="(https://raw.githubusercontent.com/mmoreaudev/Toreya/main/screenshots/1.png" width="50%">
+<img src="https://raw.githubusercontent.com/mmoreaudev/Toreya/main/screenshots/1.png" width="50%">
 <img src="https://raw.githubusercontent.com/mmoreaudev/Toreya/main/screenshots/2.png" width="50%">
 <img src="https://raw.githubusercontent.com/mmoreaudev/Toreya/main/screenshots/3.png" width="50%">
 
